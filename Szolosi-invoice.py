@@ -29,6 +29,6 @@ print("\t\t\tTotal")
 print("\t\t\t$" + PrintedTotal)
 print("-"*50)
 print()
-print("\tThank you for being a Columbus State Student")
+print("   Thank you for being a Columbus State Student")
 print("*"*50)
 
